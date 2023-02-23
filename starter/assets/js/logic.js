@@ -1,4 +1,5 @@
 // click start button to start countdown timer
+
 // load first question
 // when an answer is clicked, let the next question load
 // if the answer is incorrect, substract time from clock to increase stress levels
